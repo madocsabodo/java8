@@ -1,0 +1,15 @@
+com\msg\streambench\App.class
+com\msg\streambench\generated\App_forMaxInteger_jmhTest.class
+com\msg\streambench\generated\App_parallelStreamMaxInteger_jmhTest.class
+com\msg\streambench\App$Wrapper.class
+com\msg\streambench\generated\App_forEachLambdaMaxInteger_jmhTest.class
+com\msg\streambench\generated\App_jmhType_B1.class
+com\msg\streambench\generated\App_jmhType_B3.class
+com\msg\streambench\generated\App_jmhType.class
+com\msg\streambench\generated\App_jmhType_B2.class
+com\msg\streambench\generated\App_forEachLoopMaxInteger_jmhTest.class
+com\msg\streambench\generated\App_iteratorMaxInteger_jmhTest.class
+META-INF\BenchmarkList
+META-INF\CompilerHints
+com\msg\streambench\generated\App_streamMaxInteger_jmhTest.class
+com\msg\streambench\generated\App_lambdaMaxInteger_jmhTest.class

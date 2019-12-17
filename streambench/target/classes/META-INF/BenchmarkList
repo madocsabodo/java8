@@ -1,0 +1,7 @@
+JMH S 23 com.msg.streambench.App S 60 com.msg.streambench.generated.App_iteratorMaxInteger_jmhTest S 18 iteratorMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 55 com.msg.streambench.generated.App_forMaxInteger_jmhTest S 13 forMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 58 com.msg.streambench.generated.App_streamMaxInteger_jmhTest S 16 streamMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 66 com.msg.streambench.generated.App_parallelStreamMaxInteger_jmhTest S 24 parallelStreamMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 65 com.msg.streambench.generated.App_forEachLambdaMaxInteger_jmhTest S 23 forEachLambdaMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 63 com.msg.streambench.generated.App_forEachLoopMaxInteger_jmhTest S 21 forEachLoopMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 23 com.msg.streambench.App S 58 com.msg.streambench.generated.App_lambdaMaxInteger_jmhTest S 16 lambdaMaxInteger S 11 AverageTime E A 1 1 1 E I 1 5 E E I 1 5 E E I 1 2 E E E E E E U 12 MILLISECONDS E E 
